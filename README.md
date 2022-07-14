@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-    <img width="500px" src="readme.gif" alt="hello">
+    <img width="1000px" src="readme.gif" alt="hello">
 </p>
 
 #### :wave: I'm a 20-year-old engineering student, who loves to code and learn new things. <br>
