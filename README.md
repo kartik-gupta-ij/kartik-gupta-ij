@@ -9,9 +9,9 @@
 * <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/octocat-spinner.gif" height="18px"> Currently I am learning DSA and C++ Advanced Topics<br>
 
 
-    <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" height="27px">  Show Languages and Tools used
+    <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" height="27px">Languages and Tools used
     </summary>
-    <p align="left">
+    <p align="center">
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -25,7 +25,7 @@
     </p>
 
 
-*  📈 Show GitHub Stats
+*  📈 GitHub Stats
 
 <p align="center">
 
