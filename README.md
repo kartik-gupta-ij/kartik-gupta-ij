@@ -25,7 +25,7 @@
     </p>
 
 
-<summary> 📈 Show GitHub Stats</summary>
+*  📈 Show GitHub Stats
 
 <p align="center">
 
