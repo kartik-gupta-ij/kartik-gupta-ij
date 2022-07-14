@@ -24,16 +24,13 @@
     </p>
 </details>
 
-<details>
-    <summary> 📈 Show GitHub Stats</summary>
-    <p align="center">
-
+<summary> 📈 Show GitHub Stats</summary>
+<p align="center">
 ![Kartik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kartik-gupta-ij&theme=xcode&border_color=white)
-
 <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight&hide_border=true" /
-    </p>
-</details>
+<img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 <hr>
 <p align="center">
     <i>Find me around the web 🌎</i>
