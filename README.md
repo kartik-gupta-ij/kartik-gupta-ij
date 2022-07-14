@@ -1,6 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-    <img width="1000px" src="readme.gif" alt="hello">
+<a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="1000px" src="readme.gif" alt="hello"></a>
+    
 </p>
 
 * :wave: I'm a 20-year-old engineering student, who loves to code and learn new things. <br>
@@ -25,7 +26,7 @@
 
 *  📈 GitHub Stats
 
-<p align="center" href="#">
+<p align="center">
 
 <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=kartik-gupta-ij&theme=xcode&border_color=white" />
 <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight&hide_border=true" />
