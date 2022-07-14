@@ -24,6 +24,7 @@
     </p>
 </p>
 
+<hr>
 
 *  📈 GitHub Stats
 
