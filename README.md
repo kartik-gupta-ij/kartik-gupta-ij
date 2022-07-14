@@ -3,10 +3,10 @@
     <img width="1000px" src="readme.gif" alt="hello">
 </p>
 
-#### :wave: I'm a 20-year-old engineering student, who loves to code and learn new things. <br>
-#### 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
-#### 🤝 I'm always open to collaborating and connecting to people.<br>
-#### <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/octocat-spinner.gif" height="18px"> Currently I am learning DSA and C++ Advanced Topics<br>
+* :wave: I'm a 20-year-old engineering student, who loves to code and learn new things. <br>
+* 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
+* 🤝 I'm always open to collaborating and connecting to people.<br>
+* <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/octocat-spinner.gif" height="18px"> Currently I am learning DSA and C++ Advanced Topics<br>
 
 <details>
     <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" height="27px">  Show Languages and Tools used
@@ -31,7 +31,7 @@
     <summary> 📈 Show GitHub Stats</summary>
     <p align="center">
 
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kartik-gupta-ij&theme=xcode&border_color=white)
+![Kartik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kartik-gupta-ij&theme=xcode&border_color=white)
 
 <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight&hide_border=true" /
