@@ -6,23 +6,23 @@
 #### :wave: I'm a 20-year-old engineering student, who loves to code and learn new things. <br>
 #### 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
 #### 🤝 I'm always open to collaborating and connecting to people.<br>
-#### <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/octocat-spinner.gif" height="18px"> Currently I am learning DSA and C++ Advanced Topics<br>
+#### <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/octocat-spinner.gif" height="18px"> Currently I am learning DSA and C++ Advanced Topics<br>
 
 <details>
     <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" height="27px">  Show Languages and Tools used
     </summary>
     <p align="left">
-        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/c.svg" height="50"
+        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/c.svg" height="50"
             alt="C programming language" />
-        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/c%2B%2B.svg" height="50"
+        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/c%2B%2B.svg" height="50"
             alt="C++ programming language" />
-        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/html.svg" height="50"
+        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/html.svg" height="50"
             alt="HTML" />
-        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/python.svg" height="50"
+        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/python.svg" height="50"
             alt="Python" />
-        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/git.svg" height="50"
+        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/git.svg" height="50"
             alt="Git" />
-        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/vscode.svg" height="50"
+        <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/vscode.svg" height="50"
             alt="Visual studio code" />
         
     </p>
@@ -43,10 +43,10 @@
     <i>Find me around the web 🌎</i>
     <p align="center">
         <a href="https://twitter.com/KartikGupta7267" alt="Twitter"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/twitter.svg"></a>
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/twitter.svg"></a>
         <a href="https://www.linkedin.com/in/kartik-gupta-ij/" alt="Linkedin"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/linkedin.svg"></a>
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/linkedin.svg"></a>
         <a href="mailto:kartikgupta7267@gmail.com" alt="gmail"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/master/assests/gmail.svg"></a>
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/gmail.svg"></a>
     </p>
 </p>
