@@ -23,10 +23,7 @@
         <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/git.svg" height="50"
             alt="Git" />
         <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/vscode.svg" height="50"
-            alt="Visual studio code" />
-        <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anaconda.svg" height="50"
-            alt="anaconda" />
-        
+            alt="Visual studio code" />  
     </p>
 </details>
 
