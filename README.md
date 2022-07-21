@@ -11,7 +11,7 @@
 
 <hr>
 <p align="center">
-    <i><a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/mona-whisper.gif" height="18px">Languages and Tools used</a></i>
+    <i><a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer">Languages and Tools used</a></i>
     <p align="center">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
