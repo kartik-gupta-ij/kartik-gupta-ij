@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-<a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="1000px" src="readme.gif" alt="hello"/></a>
+<a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello"/></a>
     
 </p>
 
