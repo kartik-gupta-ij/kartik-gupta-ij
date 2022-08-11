@@ -1,9 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
 <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello"/></a>
-    
 </p>
-
 * :wave: I'm a 20-year-old engineering student, who loves to code and learn new things. <br>
 * 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
 * 🤝 I'm always open to collaborating and connecting to people.<br>
