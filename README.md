@@ -5,7 +5,7 @@
 * :wave: I'm a 20-year-old engineering student, who loves to code and learn new things. <br>
 * 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
 * 🤝 I'm always open to collaborating and connecting to people.<br>
-* <img src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/octocat-spinner.gif" height="18px"> Currently I am learning DSA and C++ Advanced Topics<br>
+* 🌏 Currently I am learning DSA and C++ Advanced Topics<br>
 
 <hr>
 <p align="center">
