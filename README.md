@@ -5,7 +5,7 @@
 
 <p>
 
-* :wave: I'm a 21-year-old engineering student, who loves to code and learn new things. <br>
+* :wave: I'm a 21 year-old engineering student, who loves to code and learn new things. <br>
 * 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
 * 🤝 I'm always open to collaborating and connecting to people.<br>
 * 🌏 Currently I am learning DSA and C++ Advanced Topics
