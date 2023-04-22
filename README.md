@@ -40,7 +40,7 @@
 
 <hr>
 <p align="center">
-    <i>Find me around the web 🌎</i>
+    <i>Find me around the Web!!! 🌎</i>
     <p align="center">
         <a href="https://twitter.com/KartikGupta7267" alt="Twitter"><img
                 src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/twitter.svg"></a>
