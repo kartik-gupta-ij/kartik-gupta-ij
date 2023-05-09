@@ -30,7 +30,7 @@
 <hr>
 
 <p align="center">
-    <i> 📈 GitHub Stats </i>
+    <i> 📈 GitHub Stats</i>
         <p align="center">
             <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kartik-gupta-ij&theme=xcode&border_color=white" /></a>
             <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight"/></a>
