@@ -42,7 +42,7 @@
 <p align="center">
     <i>Find me around the Web!!! 🌎</i>
     <p align="center">
-        <a href="https://twitter.com/KartikGupta7267" alt="Twitter"><img
+        <a href="https://twitter.com/kartik_gupta_ij" alt="Twitter"><img
                 src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/twitter.svg"></a>
         <a href="https://www.linkedin.com/in/kartik-gupta-ij/" alt="Linkedin"><img
                 src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/linkedin.svg"></a>
