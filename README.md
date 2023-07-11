@@ -3,6 +3,7 @@
 <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello-gif"/></a>
 </p>
 
+# Hi, I'm Kartik <img src="/hello.gif" width="30px" height="30px">
 <p>
 
 * :wave: I'm a 21 year old engineering student, who loves to code and learn new things. <br>
