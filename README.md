@@ -33,7 +33,7 @@
 <p align="center">
     <i> 📈 GitHub Stats</i>
         <p align="center">
-       <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-gupta-ij&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a> 
+<!--        <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-gupta-ij&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a>  -->
             <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight"/></a>
             <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight" /></a>
             </p>
