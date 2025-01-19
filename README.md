@@ -6,7 +6,7 @@
 # Hi, I'm Kartik <img src="/hello.gif" width="30px" height="30px">
 <p>
 
-* :wave: I'm a 21 year old engineering student, who loves to code and learn new things. <br>
+* :wave: I'm a 22 year old engineering student, who loves to code and learn new things. <br>
 * 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
 * 🤝 I'm always open to collaborating and connecting to people.<br>
 * 🌏 Currently I am learning DSA and C++ Advanced Topics.
@@ -35,7 +35,7 @@
         <p align="center">
 <!--        <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-gupta-ij&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a>  -->
             <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight"/></a>
-            <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight" /></a>
+<!--             <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight" /></a> -->
             </p>
 </p>
 
